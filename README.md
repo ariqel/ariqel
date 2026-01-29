@@ -1,16 +1,74 @@
-## Hi there 👋
+# 👋 Hey, I'm Ariqel
 
-<!--
-**ariqel/ariqel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+```text
+      __        _______    __      ______    _______  ___       
+     /""\      /"      \  |" \    /    " \  /"     "||"  |      
+    /    \    |:        | ||  |  // ____  \(: ______)||  |      
+   /' /\  \   |_____/   ) |:  | /  /    )  )\/    |  |:  |      
+  //  __'  \   //      /  |.  |(: (____/ // // ___)_  \  |___   
+ /   /  \\  \ |:  __   \  /\  |\\         \(:      "|( \_|:  \  
+(___/    \___)|__|  \___)(__\_|_)\"____/\__\\_______) \_______) 
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Developer · Builder · Problem Solver**
+
+</div>
+
+---
+
+## About Me
+
+I'm a developer who enjoys building clean, efficient, and reliable software. I focus on writing readable code, solid project structure, and tooling that *just works*.
+
+* **Python developer** with **3 years** of experience
+* **JavaScript & TypeScript** developer with **2 years** of experience
+* Interested in tooling, automation, and backend systems
+* Always learning, always improving
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3%20Years-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-2%20Years-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-2%20Years-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+---
+
+## What I Care About
+
+* Clean and maintainable code
+* Good project structure
+* Performance and reliability
+* Developer experience (DX)
+* Avoiding unnecessary complexity
+
+---
+
+## GitHub Focus
+
+* Python tooling & automation
+* APIs and backend utilities
+* CLI tools
+* Experiments and side projects
+
+---
+
+## Philosophy
+
+> *"Simple is better than complex. Complex is better than complicated."*
+> — Zen of Python
+
+---
+
+<div align="center">
+
+⭐ Feel free to check out my repositories and projects
+
+</div>
