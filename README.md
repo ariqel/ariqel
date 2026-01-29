@@ -59,9 +59,3 @@ I'm a developer who enjoys building clean, efficient, and reliable software. I f
 > — Zen of Python
 
 ---
-
-<div align="center">
-
-⭐ Feel free to check out my repositories and projects
-
-</div>
